@@ -1,4 +1,4 @@
-//-> is the extension method
+//-> is an extension method
 //can be called on an instance of any type with one param of any other type
 //the result is a Tuple[FirstType, SecondType]
 //mainly sytactic sugar for creating maps

@@ -1,0 +1,3 @@
+this is a test file
+testing reading a file in using scala
+end of file here.
