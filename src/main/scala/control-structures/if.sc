@@ -6,8 +6,9 @@ var fileName = "default.txt"
 if (args.length > 0) fileName = args(0)
 
 //if is an expression so can assign return value from if
-//this avoid the use of the fileName var
+//this avoids the use of the fileName var
 //the final expression in a code block is the return value - no need to explicitly say return
+//reads like Java ternary
 val newName = if (args.length > 0) args(0) else defaultName
 
 

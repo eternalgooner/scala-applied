@@ -14,3 +14,4 @@ do {
   println(s"the square of $x is ${x * x}")          //string interpolation
   x += 1
 } while (x < 5)
+
